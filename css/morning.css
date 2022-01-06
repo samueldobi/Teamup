@@ -1,0 +1,88 @@
+body, html {
+    height: 100%;
+    font-family: 'Ubuntu', sans-serif;
+  }
+ul{
+    list-style-type: none;
+}
+.main-content{
+    background-image:url("../images/faded-sun.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover 
+}
+.team img{
+    width: 100%;
+}
+
+.navbar .navbar-nav>.nav-item> a{
+    color: #A13E2D;
+}
+.navbar .navbar-text{
+    color: #A13E2D;
+}
+.about-us{
+    background-image:url("../images/Shiny-Overlay.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover 
+}
+.about-card{
+    background: radial-gradient(#ee9ca7, #ffdde1);
+    border-radius: 10px;
+}
+
+h1,h2,h4,p,#target-txt{
+    color: #141846;
+}
+h2,#about-txt{
+    padding: 5px;
+}
+.call-to-act p{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    margin: 5px;
+    border: 1px solid #fff;
+}
+.call-to-act p:hover{
+    background-color: #FFEFBA;
+    transform: scale(1.1);
+}
+h3{
+    text-align: center;
+    color:#141846 ;
+}
+#collab{
+    color: #808080;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.follow-page img{
+    width: 15%;
+}
+.follow-page .row{
+    padding: 5px;
+}
+.more-info{
+    background-color: #eeeeee;
+}
+.more-info img{
+    width: 50%;
+}
+footer{
+    background-image:url("../images/Hexagon.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover 
+}
+footer .col-xl-4{
+    padding: 20px;
+}
+.list,#list-order,h5{
+    color: #fff;
+}
