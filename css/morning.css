@@ -30,13 +30,18 @@ ul{
 .about-card{
     background: radial-gradient(#ee9ca7, #ffdde1);
     border-radius: 10px;
+    height:250px;
+}
+h3{
+    padding: 20px;
+    font-weight: bold;
 }
 
-h1,h2,h4,p,#target-txt{
+h1,h4,p,#target-txt{
     color: #141846;
 }
-h2,#about-txt{
-    padding: 5px;
+#about-txt{
+    padding: 0px 10px;
 }
 .call-to-act p{
     backdrop-filter: blur(16px) saturate(180%);
