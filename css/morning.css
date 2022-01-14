@@ -32,12 +32,12 @@ ul{
     border-radius: 10px;
     height:250px;
 }
-h3{
-    padding: 20px;
+h2{
+    padding: 10px;
     font-weight: bold;
 }
 
-h1,h4,p,#target-txt{
+h1,h2,h4,p,#target-txt{
     color: #141846;
 }
 #about-txt{
