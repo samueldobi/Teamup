@@ -61,6 +61,7 @@ h1,h2,h4,p,#target-txt{
 h3{
     text-align: center;
     color:#141846 ;
+    font-weight: bold;
 }
 #collab{
     color: #808080;
